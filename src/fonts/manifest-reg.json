@@ -1,0 +1,139 @@
+[
+{
+  "image": {
+    "name": "./api/uploads/a191su3g6oleb9lfbenf3muca5/Manifest-Regular1.jpg",
+    "format": "JPEG",
+    "formatDescription": "Joint Photographic Experts Group JFIF format",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 2222,
+      "height": 1333,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 200,
+      "y": 200
+    },
+    "printSize": {
+      "x": 11.11,
+      "y": 6.665
+    },
+    "units": "PixelsPerInch",
+    "type": "TrueColor",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2961926,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 227.65,
+        "standardDeviation": 19088.1,
+        "kurtosis": 4.84028,
+        "skewness": -2.56418,
+        "entropy": 0.163777
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 227.65,
+        "standardDeviation": 19088.1,
+        "kurtosis": 4.84039,
+        "skewness": -2.56421,
+        "entropy": 0.163914
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 227.65,
+        "standardDeviation": 19088.1,
+        "kurtosis": 4.84039,
+        "skewness": -2.56421,
+        "entropy": 0.163917
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 227.649,
+        "standardDeviation": 19088.2,
+        "kurtosis": 4.84004,
+        "skewness": -2.56413,
+        "entropy": 0.163499
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "matteColor": "#BDBDBD",
+    "transparentColor": "#000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 2222,
+      "height": 1333,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 100,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-07-04T03:44:06+00:00",
+      "date:modify": "2021-07-04T03:44:06+00:00",
+      "icc:copyright": "Copyright Artifex Software 2011",
+      "icc:description": "Artifex Software sRGB ICC Profile",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "a5dc66367db870349d108c744a37e5f606c715b00086ea522bda1433c8cf5d30"
+    },
+    "profiles": {
+      "icc": {
+        "length": 2576
+      }
+    },
+    "artifacts": {
+      "filename": "./api/uploads/a191su3g6oleb9lfbenf3muca5/Manifest-Regular1.jpg"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "2.96193M",
+    "pixelsPerSecond": "133.836MB",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.022",
+    "version": "ImageMagick 6.9.10-86 Q16 x86_64 2020-01-13 https://imagemagick.org"
+  }
+}
+]
